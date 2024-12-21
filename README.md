@@ -6,6 +6,10 @@
 - **Frameworks**: Flask, Ruby on Rails, Next.js
 - **Tools**: Git, Docker, VS Code
 
+## X
+
+- **URL**: https://x.com/maton_Bridge
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maton369&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maton369&theme=gruvbox)
