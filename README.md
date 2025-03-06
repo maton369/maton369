@@ -1,10 +1,8 @@
 ## Hi I'm maton.
 
-## Skills
-
-- **Languages**: Python, Ruby,　PHP, TypeScript
-- **Frameworks**: Flask, Ruby on Rails, Laravel, Next.js
-- **Tools**: Git, Docker, VSCode
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,php,laravel,ruby,rails,figma,python,flask,pytorch,go,docker,aws,vscode" />
+<br>
 
 ## X
 
