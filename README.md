@@ -4,6 +4,10 @@
 
 こんにちは世界、matonです。楽しくエンジニアライフやってます。
 
+## 🔗 SNS
+
+- **X**: [@maton_Bridge](https://x.com/maton_Bridge)
+
 ## 🌱 スキル
 
 ![My Skills](https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,php,laravel,ruby,rails,figma,python,flask,pytorch,go,docker,aws,vscode)
@@ -42,7 +46,3 @@
 ## 🏆 実績
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maton369&theme=gruvbox)
-
-## 🔗 SNS
-
-- **X**: [@maton_Bridge](https://x.com/maton_Bridge)
