@@ -10,7 +10,7 @@
 
 ## 🌱 スキル
 
-![My Skills](https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,php,laravel,ruby,rails,figma,python,flask,pytorch,go,docker,aws,vscode)
+![My Skills](https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,swift,flutter,php,laravel,ruby,rails,figma,python,flask,pytorch,go,docker,aws,vscode)
 
 ## 🛠️ プロダクト
 
