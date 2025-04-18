@@ -1,48 +1,60 @@
-# maton's Portfolio
+# 🚀 maton's Portfolio
 
-## 👋 自己紹介
+こんにちは、**maton** です。毎日楽しくエンジニアライフやってます。
 
-こんにちは世界、matonです。楽しくエンジニアライフやってます。
+---
 
-## 🔗 SNS
+## 🌐 SNS & Contact
 
-- **X**: [@maton_Bridge](https://x.com/maton_Bridge)
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/maton_Bridge)
 
-## 🌱 スキル
+---
 
-![My Skills](https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,swift,flutter,php,laravel,ruby,rails,figma,python,flask,pytorch,go,docker,aws,vscode)
+## 🧠 Skills
 
-## 🛠️ プロダクト
+<div align="center">
+  <img src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,ts,react,next,swift,flutter,php,laravel,ruby,rails,figma,python,flask,pytorch,go,docker,aws,vscode" />
+</div>
 
-### HackFlow -博路‐
+---
 
-**概要**: HackFlow は、ハッカソンや開発イベントにおける「開発の過程（Flow）」を共有できるプロジェクト投稿プラットフォームです。
+## 🛠️ Projects
 
-**特徴**:
+### 🎯 HackFlow -博路‐
 
-- **プロジェクト登録**: チームごとにプロジェクトを登録し、視覚的に開発ステップを共有。
-- **フィードバック機能**: 他の開発者のプロジェクトに「いいね」でフィードバックが可能。
-- **チーム管理**: チームメンバーの管理やプロフィール編集をサポート。
+> ハッカソンでの「開発の過程」にフォーカスした、共有プラットフォーム。
 
-**ポイント**: HackFlow は、完成物ではなく「過程」に価値を置いた新しい開発支援の形を提案しています。
+🔹 プロジェクト登録と可視化  
+🔹 チームメンバー管理 & フィードバック機能  
+🔹 完成物ではなく「プロセス」に価値を
 
-**URL**: [HackFlow 本番環境](https://hack-flow-c486eda020a0.herokuapp.com)  
-**GitHub**: [HackFlow リポジトリ](https://github.com/maton369/HackFlow)
+🔗 [本番環境](https://hack-flow-c486eda020a0.herokuapp.com)  
+📂 [GitHub Repo](https://github.com/maton369/HackFlow)
 
-### EmoLog
+---
 
-**概要**: ハッカソンで開発したプロジェクトです。感情に注目したログアプリです。
+### 💡 EmoLog
 
-**GitHub**: [EmoLog リポジトリ](https://github.com/Tech-Education-CAMP-Hackathon/EmoLog)
+> 「感情ログ」に注目したジャーナリング・アプリ。ハッカソンプロジェクト。
 
-## 📊 GitHub 統計
+📂 [GitHub Repo](https://github.com/Tech-Education-CAMP-Hackathon/EmoLog)
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maton369&theme=gruvbox)
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maton369&theme=gruvbox)
-![Most Committed Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maton369&theme=gruvbox)
-![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maton369&theme=gruvbox)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maton369&theme=gruvbox&utcOffset=9)
+---
 
-## 🏆 実績
+## 📈 GitHub Stats
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maton369&theme=gruvbox)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maton369&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maton369&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maton369&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maton369&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maton369&theme=gruvbox&utcOffset=9" />
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maton369&theme=gruvbox" />
+</div>
