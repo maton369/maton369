@@ -1,14 +1,18 @@
 name: Latest blog post workflow
+
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 1 * * *"
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    - cron: "0 1 * * *" # 毎日10:00(JST)に自動実行
+  workflow_dispatch: # GitHub Actions画面から手動実行可能
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest Zenn posts
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
+
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://zenn.dev/<アカウント名>/feed"
+          feed_list: "https://zenn.dev/maton369/feed"
