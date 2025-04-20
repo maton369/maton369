@@ -58,3 +58,11 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maton369&theme=gruvbox" />
 </div>
+
+---
+
+## 🐍 A Snake That Eats My Contribution Grass
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maton369/maton369/output/github-contribution-grid-snake.svg" />
+</div>
