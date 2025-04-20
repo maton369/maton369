@@ -63,6 +63,8 @@
 
 ## 🐍 A Snake That Eats My Contribution Grass
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maton369/maton369/output/github-contribution-grid-snake.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
