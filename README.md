@@ -13,7 +13,7 @@
 ## 🧠 Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,ts,react,next,swift,flutter,php,laravel,ruby,rails,figma,python,flask,pytorch,go,docker,aws,vscode" />
+  <img src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,ts,react,next,swift,flutter,php,laravel,ruby,rails,figma,python,flask,pytorch,go,docker,kubernetes,aws,vscode" />
 </div>
 
 ---
