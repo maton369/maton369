@@ -4,6 +4,16 @@
 
 ---
 
+![](./profile-3d-contrib/profile-season-animate.svg)
+
+## 🐍 A Snake That Eats My Contribution Grass
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
+
 ## 🌐 SNS & Contact
 
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/maton_Bridge)
@@ -61,12 +71,3 @@
 
 ---
 
-## 🐍 A Snake That Eats My Contribution Grass
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-</picture>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
