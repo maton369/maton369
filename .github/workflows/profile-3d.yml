@@ -20,8 +20,13 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+
           git fetch origin
-          git reset --hard origin/main
+
+          git checkout origin/main
+          git checkout -b tmp-main
+
           git add -A
           git diff-index --quiet HEAD || git commit -m "generated"
-          git push origin HEAD:main
+    
+          git push -f origin tmp-main:main
