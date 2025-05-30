@@ -17,12 +17,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Force Push
+      - name: Commit & Force
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git fetch origin
-          git reset --hard origin/main
           git add -A
-          git diff-index --quiet HEAD || git commit -m "generated"
-          git push origin main --force
+          git commit -m "generated"
+          git push origin main
