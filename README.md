@@ -63,6 +63,14 @@
 
 ---
 
+## 📊 Languages Used
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maton369&layout=compact&theme=gruvbox" />
+</div>
+
+---
+
 ## 🏅 Achievements
 
 <div align="center">
