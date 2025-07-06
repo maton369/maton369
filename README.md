@@ -53,7 +53,7 @@
 
 ## 🪟Intern
 
-[7/5~6](https://github.com/c0b231008b/WHI-intern-2025)
+> [Works Human Intelligence インターン2025 開発課題](https://github.com/c0b231008b/WHI-intern-2025)
 
 ## 📈 GitHub Stats
 
