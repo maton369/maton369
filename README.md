@@ -51,6 +51,10 @@
 
 ---
 
+## 🪟Intern
+
+[7/5~6](https://github.com/c0b231008b/WHI-intern-2025)
+
 ## 📈 GitHub Stats
 
 <div align="center">
