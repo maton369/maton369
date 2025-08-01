@@ -54,6 +54,8 @@
 ## 🪟Intern
 
 > [Works Human Intelligence インターン2025 開発課題](https://github.com/c0b231008b/WHI-intern-2025)
+>
+> [ログラス5daysインターンシップ｜27卒 エンジニア職【本選考直結】](https://loglass.notion.site/5days-27-1b2da7df897980249953c90923c37bce)
 
 ## 📈 GitHub Stats
 
