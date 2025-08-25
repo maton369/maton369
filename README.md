@@ -56,6 +56,8 @@
 > [Works Human Intelligence インターン2025 開発課題](https://github.com/c0b231008b/WHI-intern-2025)
 >
 > [ログラス5daysインターンシップ｜27卒 エンジニア職【本選考直結】](https://loglass.notion.site/5days-27-1b2da7df897980249953c90923c37bce)
+>
+> [【27卒｜エンジニア職】※2週間 就業型インターンシップ※ KADOKAWAグループにて運営するサービスの開発を一緒に手掛けませんか？](https://talent.supporterz.jp/events/3e79d8a4-eaa7-4f42-a625-c2ed31ab7cef/)
 
 ## 📈 GitHub Stats
 
