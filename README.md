@@ -18,6 +18,8 @@
 
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/maton_Bridge)
 
+[読書メーター](https://bookmeter.com/users/1511026)
+
 ---
 
 ## 🧠 Skills
