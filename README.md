@@ -53,7 +53,9 @@
 
 ## 🪟Intern
 
-> [Works Human Intelligence インターン2025 開発課題](https://github.com/c0b231008b/WHI-intern-2025)
+>[プライム上場/Tech企業【JavaScript×AI挑戦！0→1のWebアプリ開発／就業型3weeks有償インターン】顔画像判定APIを活用した新規サービス開発](https://talent.supporterz.jp/events/a5dc5b9d-20d1-410d-8bfb-9da72dd377b9/)
+>
+>[Works Human Intelligence インターン2025 開発課題](https://github.com/c0b231008b/WHI-intern-2025)
 >
 > [ログラス5daysインターンシップ｜27卒 エンジニア職【本選考直結】](https://loglass.notion.site/5days-27-1b2da7df897980249953c90923c37bce)
 >
