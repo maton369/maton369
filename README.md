@@ -60,6 +60,8 @@
 > [ログラス5daysインターンシップ｜27卒 エンジニア職【本選考直結】](https://loglass.notion.site/5days-27-1b2da7df897980249953c90923c37bce)
 >
 > [【27卒｜エンジニア職】※2週間 就業型インターンシップ※ KADOKAWAグループにて運営するサービスの開発を一緒に手掛けませんか？](https://talent.supporterz.jp/events/3e79d8a4-eaa7-4f42-a625-c2ed31ab7cef/)
+>
+>[バイブコーディングで最高の生産性を実現するサマーインターン！エンジニア募集](https://www.wantedly.com/projects/2086741)
 
 ## 📈 GitHub Stats
 
