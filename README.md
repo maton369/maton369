@@ -63,7 +63,7 @@
 >
 > [【27卒｜エンジニア職】※2週間 就業型インターンシップ※ KADOKAWAグループにて運営するサービスの開発を一緒に手掛けませんか？](https://talent.supporterz.jp/events/3e79d8a4-eaa7-4f42-a625-c2ed31ab7cef/)
 >
->[バイブコーディングで最高の生産性を実現するサマーインターン！エンジニア募集](https://www.wantedly.com/projects/2086741)
+>[バイブコーディングで最高の生産性を実現するサマーインターン！エンジニア募集](https://herp.careers/v1/monox/A2dpZ2cq5sC3)
 
 ## 📈 GitHub Stats
 
