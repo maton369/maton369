@@ -20,6 +20,8 @@
 
 [読書メーター](https://bookmeter.com/users/1511026)
 
+[Gitty](https://gitty-code.com/user/maton369)
+
 ---
 
 ## 🧠 Skills
