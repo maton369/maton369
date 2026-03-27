@@ -55,6 +55,14 @@
 
 ---
 
+### リマインドBot
+
+> 毎週の部の活動の告知を手作業だったのをBotで自動化し部員の作業の負担を軽減しました
+
+[CTRL_Schedule_Bot](https://github.com/TCU-CTRL/CTRL_Schedule_Bot)
+
+---
+
 ## 🪟Intern
 
 >[プライム上場/Tech企業【JavaScript×AI挑戦！0→1のWebアプリ開発／就業型3weeks有償インターン】顔画像判定APIを活用した新規サービス開発](https://talent.supporterz.jp/events/a5dc5b9d-20d1-410d-8bfb-9da72dd377b9/)
